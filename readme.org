@@ -1,0 +1,3 @@
+* Personal repository for random code
+
+*(some might not work!)*
