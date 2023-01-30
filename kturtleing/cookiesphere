@@ -1,0 +1,14 @@
+kturtle-script-v1.0
+@(reset)
+@(repeat) 10000 {
+  @(turnright) 1
+  @(repeat) 100 {
+    @(forward) 10
+    @(turnright) 1
+    @(backward) 2
+  }
+  @(repeat) 10 {
+    @(forward) 10
+    @(turnright) 90
+  }
+}@(direction) 69
